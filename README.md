@@ -15,5 +15,5 @@ Linear Regression
   Checking Normal Distribution
     from scipy.stats import shapiro
     from scipy.stats import normaltest
-    from scipy.stats import anderson
+    from scipy.stats import anderson 
   
