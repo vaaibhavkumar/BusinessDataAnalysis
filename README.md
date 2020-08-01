@@ -1,8 +1,8 @@
 # BusinessDataAnalysis
 A data set was analyzed and linear regression was done. 
 Before doing linear regression, the following steps were done: 
-Read in and Clean Dataset 
-Check for Encoding categorical variables
+      Read in and Clean Dataset 
+      Check for Encoding categorical variables
 Dropping unnecessary columns
 Binning any large range categorical variables
 Exploratory Data Analysis
